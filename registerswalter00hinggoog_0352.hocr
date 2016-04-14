@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./registerswalter00hinggoog_0352.png"; bbox 0 0 885 1323; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 689 239 725 385">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 689 239 725 385">
+     <span class='ocr_line' id='line_1_1' title="bbox 689 239 725 385"><span class='ocrx_word' id='word_1_1' title='bbox 689 239 725 385; x_wconf 47' lang='lat' dir='ltr'>{1OE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 699 426 730 1065">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 699 426 730 1065">
+     <span class='ocr_line' id='line_1_2' title="bbox 699 426 730 1065; baseline 319.5 -639"><span class='ocrx_word' id='word_1_2' title='bbox 699 426 730 562; x_wconf 41' lang='lat' dir='ltr'>ixx-:U</span> <span class='ocrx_word' id='word_1_3' title='bbox 702 597 728 752; x_wconf 45' lang='lat' dir='ltr'>Qozwjm</span> <span class='ocrx_word' id='word_1_4' title='bbox 703 782 728 827; x_wconf 59' lang='grc' dir='ltr'>,ὼο</span> <span class='ocrx_word' id='word_1_5' title='bbox 701 857 727 1065; x_wconf 35' lang='lat' dir='ltr'>mfflfffflfflwmoe</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
